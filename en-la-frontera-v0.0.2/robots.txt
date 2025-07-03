@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://en-la-frontera.com/sitemap-index.xml
